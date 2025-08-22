@@ -31,7 +31,7 @@
 
 ### **📫 Let's Connect**
 - 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- 🐙 **GitHub:** [github.com/surajyadav](https://github.com/suraj-yadav8868)
+- 🐙 **GitHub:** [github.com/suraj-yadav8868](https://github.com/suraj-yadav8868)
 
 ---
 
