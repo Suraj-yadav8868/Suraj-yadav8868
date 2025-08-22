@@ -31,8 +31,7 @@
 
 ### **📫 Let's Connect**
 - 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/surajyadav](https://linkedin.com/in/surajyadav)  
-- 🐙 **GitHub:** [github.com/surajyadav](https://github.com/surajyadav)
+- 🐙 **GitHub:** [github.com/surajyadav](https://github.com/suraj-yadav8868)
 
 ---
 
@@ -49,7 +48,7 @@
 ---
 
 ### **🚀 My GitHub Journey**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surajyadav&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suraj-yadav8868&theme=react-dark)
 
 ---
 
