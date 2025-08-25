@@ -5,8 +5,7 @@
 
 ### **💡 About Me**
 - 🔭 Building **JavaScript & React projects** to sharpen my coding skills.  
-- 🌱 Currently learning **Full Stack Development (MERN)** and preparing for **JavaScript interviews**.  
-- 🏋️ **Gym Freak:** 8 months of workout experience 💪 (with some creatine in the stack 😎).  
+- 🌱 Currently learning **Full Stack Development (MERN)** and preparing for **JavaScript interviews**.   
 - ⚡ **Fun Fact:** I debug my code faster than I lift weights.  
 
 ---
@@ -15,17 +14,15 @@
 - JavaScript (ES6+)  
 - React.js  
 - HTML5 / CSS3  
-- Basic Node.js & Express.js  
+
 
 ---
 
 ### **🛠 Tools & Technologies**
 - Git & GitHub  
 - Vite  
-- Tailwind CSS  
-- MongoDB (beginner)  
 - VS Code  
-- Figma (UI Prototyping)
+
 
 ---
 
